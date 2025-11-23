@@ -1,0 +1,29 @@
+{
+  "tasks": [
+    {
+      "title": "Implementar autenticação de usuários",
+      "description": "Criar sistema de login e registro com JWT tokens. Deve incluir validação de email, hash de senha com bcrypt e refresh tokens.",
+      "labels": ["feature", "backend", "security"]
+    },
+    {
+      "title": "Corrigir bug no formulário de checkout",
+      "description": "Usuários reportam que o botão de finalizar compra não responde quando há cupom de desconto aplicado. Investigar e corrigir.",
+      "labels": ["bug", "frontend", "critical"]
+    },
+    {
+      "title": "Adicionar paginação na listagem de produtos",
+      "description": "Implementar paginação server-side para a API de produtos e adicionar controles de navegação no frontend. Limite de 20 itens por página.",
+      "labels": ["feature", "backend", "frontend"]
+    },
+    {
+      "title": "Escrever testes unitários para UserService",
+      "description": "Criar suite de testes unitários cobrindo todos os métodos do UserService incluindo casos de erro e edge cases.",
+      "labels": ["test", "backend"]
+    },
+    {
+      "title": "Refatorar componente de carrinho de compras",
+      "description": "O componente Cart está muito grande e difícil de manter. Quebrar em componentes menores (CartItem, CartSummary, CartActions) e melhorar performance.",
+      "labels": ["refactor", "frontend", "performance"]
+    }
+  ]
+}

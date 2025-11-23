@@ -72,7 +72,6 @@ graph TB
     EST -->|AI Request| AI[AI Provider]
 
     AI -.->|OpenAI API| OpenAI[OpenAI]
-    AI -.->|Claude API| Claude[Claude]
 
     style CLI fill:#e1f5ff
     style DB fill:#ffe1f5
