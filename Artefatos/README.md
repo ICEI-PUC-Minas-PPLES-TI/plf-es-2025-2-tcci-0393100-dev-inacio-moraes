@@ -1,16 +1,14 @@
 # Artefatos do projeto
 
-Este diretório mantém os artefatos do projeto. 
+Este diretório mantém os artefatos visuais e diagramas do projeto SET (Software Estimation Tool).
 
+## Estrutura de Artefatos
 
-Liste os artefatos produzidos, com suas localizações e descrição do conteúdo.
-
-Por exemplo, pode-se criar um diretório "atas", que seria descrito da seguinte forma:
-* `/atas`
-	* **Ata_xx_ago_2020.docx**: Ata de reunião do dia xx de agosto de 2020.
-
-Pode-se também criar um diretório "canvas", que seria descrito da seguinte forma:
-* `/canvas`
-	* **BusinessModelCanvas.pdf**: Canvas do modelo de negócios.
-
-Assim, sucessivamente para outros artefatos como `processos` e `DER`, etc.
+* `/images` - Contém todos os diagramas e figuras técnicas do projeto, incluindo:
+  * Diagramas de casos de uso
+  * Diagramas de sequência de sistema (DSS)
+  * Diagramas de pacotes
+  * Diagramas de sequência detalhados
+  * Diagramas C4 (context e container)
+  * Diagramas de estado
+  * Diagrama de entidade-relacionamento (ERD)

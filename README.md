@@ -11,5 +11,5 @@ O SET é uma ferramenta CLI (Command Line Interface) inteligente desenvolvida em
 * Cleiton Silva Tavares
 
 ## Instruções de utilização
-TBD
-[Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.]
+
+Para instruções detalhadas de instalação, configuração e utilização do SET, consulte o [README do código-fonte](Codigo/README.md).

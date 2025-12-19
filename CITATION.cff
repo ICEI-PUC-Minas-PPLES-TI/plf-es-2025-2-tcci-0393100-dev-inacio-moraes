@@ -1,31 +1,21 @@
 cff-version: 1.0.1
 message: Please cite this software using these metadata.
-title: 
+title: SET - Software Estimation Tool
 authors:
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names:
+  - family-names: Silva
+    given-names: Inacio Moraes da
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: 
-    given-names: 
-  - name-suffix: Professor
-    affiliation: PUC Minas
-    family-names: 
-    given-names: 
+    family-names: Tavares
+    given-names: Cleiton Silva
 keywords:
-  - 
-  - 
-repository-code: 
+  - software estimation
+  - artificial intelligence
+  - CLI tool
+  - Go
+  - project management
+  - effort estimation
+repository-code: https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2025-2-tcci-0393100-dev-set
 license: CC-BY-4.0
 version: 1.0.0
-date-released: 2022-07-14
+date-released: 2025-12-18
